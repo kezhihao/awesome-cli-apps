@@ -519,6 +519,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [GROQ](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [json-converter](https://github.com/kezhihao/json-converter) - Convert JSON between formats (JSON/YAML/TOML/XML).
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
+- [schema-gen](https://github.com/kezhihao/schema-gen) - Generate JSON Schema, TypeScript types, and Zod validators from JSON examples.
+- [config-generator](https://github.com/kezhihao/config-generator) - Generate project configuration files through interactive Q&A.
+- [api-mock-gen](https://github.com/kezhihao/api-mock-gen) - Generate mock REST API servers from OpenAPI specifications.
+- [json-validate](https://github.com/kezhihao/json-validate) - Validate JSON syntax quickly.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### YAML
